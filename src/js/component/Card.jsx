@@ -13,7 +13,7 @@ const Card = () => {
 .</p>
                 </div>
                 <div className="card-footer border-top border-1 py-2 mt-auto align-content-center">
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="#" className="btn btn-primary">Find Out More!</a>
                 </div>
             </div>
         </div>
